@@ -1,0 +1,7 @@
+PDF assignment
+
+I already have Homebrew installed on my computer. I noticed the PDFs for the minutes were PDFs of text, rather than a photo of text. The process from then on was relatively simple. I utilized xpdf in the Command Line to convert all of the PDF files, using the pdftotext filename.pdf as a formula. Once I had all of the text files in a directory, I searched using cat *.txt | grep 'YOUR SEARCH TERM HERE'. My search terms included 'racial' and 'black' and 'Strategic Plan'.  
+
+There's a Mayor's Task Force on Community Violence, which is supposed to address the racial divide in Columbia and has made recommendations to improve racial relationships. There seems to be an emphasis on community policing. There is a City Strategic Plan 2016-2019, where the city council has earmarked $100,000 for community police. There is also a two-officer outreach unit from the Police Department that is supposed to work on community policing.
+Also in 1996, a Race Relations Task Force gave 28 recommendations to address racial inequities. It is unclear as to how many of those recommendations were enacted.
+I found that there were a lot of public comments made by Race Matters, or in support of Race Matters, which is an independent group that works for minority rights.
